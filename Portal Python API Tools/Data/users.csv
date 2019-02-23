@@ -1,0 +1,3 @@
+username,password,firstname,lastname,email,role,level
+test_publisher,password1,test,publisher,test@email.com,org_publisher,2
+test_admin,password1,test,admin,test@email.com,org_administrator,2

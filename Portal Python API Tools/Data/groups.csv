@@ -1,0 +1,4 @@
+access,description,isFav,isInvitationOnly,isViewOnly,phone,snippet,sortField,sortOrder,tags,thumbnail,title
+public,"This group includes a complete list of basemaps for our organization. They provide relevant and consistent geographic context across all city departments; and are essential building blocks for the local government's desktop, mobile and web applications.  ",FALSE,TRUE,TRUE,null,Standard basemaps for our organizations.,title,asc,"Maps,Base,Basemap,Basemaps",Basemaps.png,Basemaps
+org,This Group contains an inventory of map services for our organization. These map services serve as building blocks for all maps and apps throughout the organization. ,FALSE,FALSE,FALSE,null,The authoritative service catalog.   ,title,asc,"Services,Maps,Data",CentralServices.png,Central Services
+org,A group dealing with intelligence collection,FALSE,FALSE,FALSE,null,Intelligence information,modified,asc,"Intelligence, TEM",Intelligence.jpg,Intelligence
